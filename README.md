@@ -11,13 +11,13 @@
 - Building small projects and improving my coding skills.
 - Believer in learning something new every day.
 
-### 💻 Languages & Technologies
+### Languages & Technologies
 
 - C Programming
 - JAVA, Python
 - basic HTML
 
-### 📈 My GitHub Journey
+### My GitHub Journey
 
 This profile is where I document my learning journey, share projects, experiment with ideas, and track my progress.
 
