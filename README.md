@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="banner.png" width="100%">
+</div>
 # Hey there! 👋 I'm an ISE Student
 
 -- First-year Information Science Engineering student  
