@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there! 👋 I'm an ISE Student
 
-<!--
-**likithaa123/likithaa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-- First-year Information Science Engineering student  
+-- Interested in Cybersecurity and Technology  
+-- Learning, building, and exploring something new every day.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning programming.
+- Interested in understanding how technology works.
+- Building small projects and improving my coding skills.
+- Believer in learning something new every day.
+
+### 💻 Languages & Technologies
+
+- C Programming
+- JAVA, Python
+- basic HTML
+
+### 📈 My GitHub Journey
+
+This profile is where I document my learning journey, share projects, experiment with ideas, and track my progress.
+
+---
+
+*Thanks for visiting my profile! 💜
+
+
