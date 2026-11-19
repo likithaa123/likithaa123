@@ -26,6 +26,6 @@ This profile is where I document my learning journey, share projects, experiment
 
 ---
 
-*Thanks for visiting my profile! 💜
+*Thanks for visiting my profile! 🖤
 
 
